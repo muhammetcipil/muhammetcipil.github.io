@@ -30,9 +30,9 @@ I used the "creditcardfraud" data set in this project. I have developed a model 
 * Industrial Engineering (3,05)-Beykent University-(2017-2021)
 
 # EXPERIENCE
-INDUSTRIAL ENGINEER-Kersin Tekstil(2021-2022)
-INDUSTRIAL ENGINEER-TRM TURKO ROBOT VE MAKİNA AS.(2021-2021)
-MEMBER OF BACK-AND TEAM-Yeşil Science(2019-2020)
+* INDUSTRIAL ENGINEER-Kersin Tekstil(2021-2022)
+* INDUSTRIAL ENGINEER-TRM TURKO ROBOT VE MAKİNA AS.(2021-2021)
+* MEMBER OF BACK-AND TEAM-Yeşil Science(2019-2020)
 
 
 
