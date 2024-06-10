@@ -1,5 +1,8 @@
 # Junior Data Scientist Candidate
 
+
+![MuhammetCipilLinkedInBanner](https://github.com/muhammetcipil/muhammetcipil.github.io/assets/41154346/409e271b-af93-42ba-a7bd-b858530bb860)
+
 ## About
 Hi there, It's Muhammet. Who is trying hard to become a data scientist. Nothing is going to be easy for anyone, but something could be more challenging for someone. Probably most of you feel like me.
 
